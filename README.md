@@ -1,6 +1,6 @@
 #  Ghana COVID19 Dashboard
 
-![](https://i.imgur.com/y5VBwI3.png)
+![](https://i.imgur.com/4nqJ8Kx.png)
 
 <h2>Description</h2>
 
